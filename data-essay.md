@@ -8,8 +8,9 @@
    
    Рейтинг городов основан на данных о средней температуре в регионах России, опубликованных на сайте  Федеральной службы государственной статистики и данных о среднедушевом доходе в регионах России, представленной государственной информационно-статистической системой ЕМИСС. Данные проанализированы в программе Microsoft Excel. 
 ## Источники данных:
-* https://hubofdata.ru/dataset/averageincome2018
-* https://hubofdata.ru/dataset/averagete
+* https://www.fedstat.ru/indicator/30992
+* http://www.gks.ru/wps/wcm/connect/rosstat_main/rosstat/ru/statistics/environment/
+* http://www.statdata.ru/samyi-teplyi-holodnyi-gorod-rossii
 
 *Данные не содержат сведений, составляющих тайну. Материалы доступны по лицензии Creative Commons Attribution Share-Alike*
 
